@@ -5,10 +5,9 @@ A library management system is a software where Librarian can add/view/delete/up
 librarian can add/view books, issue, view issued books and return books. The whole project is only
 based on concepts of core java like , OOPS , Collections , File Handling , Wrapper Classes etc .
 
-  --> IDE : Eclipse 
-
   --> User:
-The User include the following :
+  
+  The User include the following :
 
   1> Librarian
   
@@ -20,9 +19,10 @@ After determining the User , the second step in use case analysis is to determin
 User will need to do with the system. Each task is called a use case because it represents one particular
 way the system will be used.
 
-  Features For User :
 
-  --> Student :
+#Features For User :
+
+    --> Student :
 
   ❏ To view all the books .
   
@@ -58,5 +58,7 @@ way the system will be used.
   ❏ Delete a Book .
   
   ❏ view all Transactions .
+  
+    --> IDE : Eclipse 
   
  
